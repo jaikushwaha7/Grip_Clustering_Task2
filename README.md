@@ -13,6 +13,7 @@ Why Clustering?
 * Retail : Store Categorization
 * More Examples
  ![alt text](https://github.com/jaikushwaha7/Grip_Clustering_Task2/blob/main/Clustering%20Example.png)
+
 **Types of Clustering Procedures**
 * Hierarchical clustering is characterized by a tree like structure and uses distance as a measure of (dis)similarity
 * Partitioning Algorithms starts with a set of partitions as clusters and iteratively refines the partitions to form stable clusters
@@ -33,7 +34,8 @@ Why Clustering?
 ![alt text](https://github.com/jaikushwaha7/Grip_Clustering_Task2/blob/main/Clustering%20method%20selection.png)
 
 
-**Conclusion: <h2>
+**Conclusion:** <h2>
+ 
 <br> 
 Main objective of clustering is to find a structure from a collection of data to form sense out of data via labeling them.
 Clustering is grouping data with similar characteristics. This characteristics among data is defined by the logic. This can be further illustrated with business used cases.
@@ -41,10 +43,12 @@ A small example with respect to banking which i have practically noticed
 <br> 
  
 **Banking:**<br>
+
 * High Net worth Customer (HNI)
 * High Risk Customer
 * Medium risk Customer
 <br> 
+
 **Accounts Classification in Banks:**<br>
 1. Performing Asset or Standard Asset
 2. Substandard Asset<br>
@@ -56,7 +60,8 @@ A small example with respect to banking which i have practically noticed
 
 By labeling the customers in bank based on the amount of money in the account, annual debits and credits in account, based on this simple logic a cluster is formed and sense is put in simple terms via labels of HNI, NPA among the banking customers/accounts. Then, these categorical customers can be targeted for more business.
 
-**What’s next after clustering<h3>
+**What’s next after clustering**<h3>
+ 
 * Clustering provides you with clusters in the given datasets
 * Clustering does not provide you rules to classify future records
 * To be able to classify future records you may do the following
